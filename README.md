@@ -1,6 +1,6 @@
 # GitCMD
 
-###上传更新
+### 上传更新
 
 >git add *
 
@@ -10,6 +10,6 @@
 
 >git push origin test
 
-###文件重命名
+### 文件重命名
 
 >"git mv -f oldname newname" 
