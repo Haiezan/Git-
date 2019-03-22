@@ -19,6 +19,10 @@
 * 如何删除github里面的文件夹？
 
 >rm -r dirName
+
 >git add --all
+
 >git commit -m"remove dir"
+
 >git push you git url
+
